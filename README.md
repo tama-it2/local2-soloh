@@ -10,7 +10,7 @@
 
 条件：
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
+1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)  で記述しなさい
 1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
 3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
@@ -19,5 +19,16 @@
 ## 注意
 
 いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
+
+##　藤沢市
+
+- 市の鳥　カワセミ
+- 市長　鈴木　恒夫
+- 観光地　江の島
+
+https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1183418.html
+
+藤嶺藤沢（藤沢市）　４０年ぶり甲子園出場目指す　チームテーマは「熱漢」
+
 
 
