@@ -23,7 +23,7 @@
 ##　藤沢市
 
 - 市の鳥　カワセミ
-- 市長　鈴木　恒夫
+- 市長　鈴木　恒夫さん
 - 観光地　江の島
 
 https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1183418.html
